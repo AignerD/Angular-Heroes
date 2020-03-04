@@ -1,3 +1,4 @@
+
 import { Component, OnInit, Input } from '@angular/core';
 import { Hero } from '../hero';
 
@@ -14,5 +15,6 @@ export class HeroDetailComponent implements OnInit {
 
   ngOnInit() {
   }
+
 
 }
